@@ -1,18 +1,17 @@
 <p align="center">
   
-  <h1 align="center"># 🌟 Sobre mim:</h1>
-  <div align="center" padding="50px">
-    🦊 Meu nome é Lucas, tenho 18 anos e estou cursando Engenharia de Software <br>
-    🖥️ Sou estudante de back-end‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎<br>
-    🎯 Estou a procura de estagio ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎<br>
-    <img height=20px src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrengel/" >
-  </div>
+# 🌟 Sobre mim:</h1>
 
-  <h1 align="center"># 💻 Habilidades:</h1>
-  <div align="center" padding="50px">
-    <img height=20px src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" >
-    <img height=20px src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
-  </div>
+🦊 Meu nome é Lucas, tenho 18 anos e estou cursando Engenharia de Software <br>
+🖥️ Sou estudante de back-end‎‎<br>
+🎯 Estou a procura de estagio‎‎<br>
+
+<img height=20px src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrengel/" >
+
+# 💻 Habilidades:</h1>
+
+  <img height=20px src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" > <img height=20px src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+
   
   <h1 align="center"># 🐙 GitHub Stats:</h1>
   <p align="center">
