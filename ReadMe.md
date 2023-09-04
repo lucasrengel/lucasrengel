@@ -4,13 +4,10 @@
 🖥️ Sou estudante de back-end‎‎<br>
 🎯 Estou a procura de estagio‎‎<br>
 
+<img height=20px src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" > <img height=20px src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"><br><br>
 <a href="https://www.linkedin.com/in/lucasrengel/"> <img height=20px src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"> </a>
 
-# 💻 Habilidades:</h1>
 
-  <img height=20px src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" > <img height=20px src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
-
-  
   <h1 align="center"># 🐙 GitHub Stats:</h1>
   <p align="center">
     <img height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrengel&theme=dark&hide_border=false"><br>
