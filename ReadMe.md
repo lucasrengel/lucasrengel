@@ -2,11 +2,9 @@
 
 🦊 Meu nome é Lucas, tenho 18 anos e estou cursando Engenharia de Software <br>
 🖥️ Sou estudante de back-end‎‎<br>
-🎯 Estou a procura de estagio‎‎<br>
+🎯 Estou à procura de estagio‎‎<br>
 
-<img height=20px src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" > <img height=20px src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"><br><br>
-<a href="https://www.linkedin.com/in/lucasrengel/"> <img height=20px src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"> </a>
-
+<img height=40px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> <img height=40px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /><br>
 
   <h1 align="center">🐙 GitHub Stats:</h1>
   <p align="center">
