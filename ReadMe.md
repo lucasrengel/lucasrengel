@@ -1,5 +1,5 @@
 # 🌟 Sobre mim:
-🦊Meu nome é Lucas, tenho 18 anos e estou cursando Engenharia de Software <br>🖥️ Sou estudante de back-end <br>🎯 Estou a procura de estagio<br>
+🦊 Meu nome é Lucas, tenho 18 anos e estou cursando Engenharia de Software <br>🖥️ Sou estudante de back-end <br>🎯 Estou a procura de estagio<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrengel/) 
 
