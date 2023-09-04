@@ -1,5 +1,3 @@
-<p align="center">
-  
 # 🌟 Sobre mim:</h1>
 
 🦊 Meu nome é Lucas, tenho 18 anos e estou cursando Engenharia de Software <br>
@@ -17,5 +15,3 @@
   <p align="center">
     <img height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrengel&theme=dark&hide_border=false"><br>
     <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrengel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</p>
-
