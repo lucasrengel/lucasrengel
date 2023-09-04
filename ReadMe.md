@@ -1,9 +1,4 @@
-# 🌟 Sobre mim:</h1>
-
-🦊 Meu nome é Lucas, tenho 18 anos e estou cursando Engenharia de Software <br>
-🖥️ Sou estudante de back-end‎‎<br>
-🎯 Estou à procura de estagio‎‎<br>
-
+<h1>Lucas Rengel</h1>
 <img height=40px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> <img height=40px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /><br>
 
   <h1 align="center">🐙 GitHub Stats:</h1>
