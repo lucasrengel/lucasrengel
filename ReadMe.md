@@ -1,3 +1,4 @@
+<p align="center">
 # 🌟 Sobre mim:
 🦊 Meu nome é Lucas, tenho 18 anos e estou cursando Engenharia de Software <br>🖥️ Sou estudante de back-end <br>🎯 Estou a procura de estagio<br>
 
@@ -12,3 +13,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
