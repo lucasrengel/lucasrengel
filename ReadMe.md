@@ -1,8 +1,6 @@
 # 💫 Sobre mim:
 🔭 Sou estudante de back-end <br>🌱 Estou a procura de estagio<br>
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrengel/) 
 
 # 💻 Habilidades:
