@@ -1,9 +1,6 @@
-<div align="center">  
-
-<h2 align="center">🐙 GitHub Stats:</h2>
+<h2>🐙 GitHub Stats:</h2>
     <br><br>
     <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrengel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-
 
 <h2><b>Geralmente uso</b></h2>
   <div>
@@ -20,4 +17,3 @@
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   </div>
   <br>
-</div>
