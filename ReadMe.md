@@ -11,12 +11,5 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </div>
   <br>
-  
-  <h2><b>Aprendendo</b></h2>
-  <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </div>
   <br>
-    <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrengel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrengel&theme=github_dark_dimmed&layout=compact">
