@@ -1,5 +1,4 @@
 <h1>Oi :]</h1>
-<p>Prazer, Lucas! sou um desenvolvedor de 19 anos.</p>
 
 <h2><b>Linguagens/Programas</b></h2>
   <div>
