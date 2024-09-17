@@ -1,6 +1,6 @@
-<h1>Oi :]</h1>
-
-<h2><b>Linguagens/Programas</b></h2>
+## Hi :]
+My name is Lucas, I'm 19 years old and I live in Brazil. I am a Systems Development student at UNISUL and Software Engineering at UNIASSELVI, with a passion for web development and finding innovative solutions to problems.
+## Skills
   <div>
     <img src="https://img.shields.io/badge/java-ae0000?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
