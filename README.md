@@ -2,7 +2,7 @@
 
 Backend developer based in Santa Catarina, Brazil. I work mostly with C#/.NET and PostgreSQL.
 
-Currently at Instramed, building software for cardiovascular diagnostics (Holter/ECG). Before that I worked with software quality, automating tests with Robot Framework ├ö├ç├Â that's where I learned to care about reliability and edge cases.
+Currently at Instramed, building software for cardiovascular diagnostics (Holter/ECG). Before that I worked with software quality, automating tests with Robot Framework — that's where I learned to care about reliability and edge cases.
 
 Graduated in Systems Analysis and Development (Unisul), now finishing Software Engineering at UniAsselvi (2026).
 
@@ -21,8 +21,8 @@ Graduated in Systems Analysis and Development (Unisul), now finishing Software E
 
 ### Projects
 
-- CardioView ├ö├ç├Â [ECG monitor and viewer](https://github.com/lucasrengel/CardioView) built with WPF (.NET 10); reads MIT-BIH records, detects QRS complexes and generates PDF reports.
-- Inventory Management (A3) ├ö├ç├Â full-stack academic project: [React/TypeScript front-end](https://github.com/lucasrengel/A3Front) + [Spring Boot REST API](https://github.com/lucasrengel/A3Back).
+- CardioView — [ECG monitor and viewer](https://github.com/lucasrengel/CardioView) built with WPF (.NET 10); reads MIT-BIH records, detects QRS complexes and generates PDF reports.
+- Inventory Management (A3) — full-stack academic project: [React/TypeScript front-end](https://github.com/lucasrengel/A3Front) + [Spring Boot REST API](https://github.com/lucasrengel/A3Back).
 
 ### Contact
 
