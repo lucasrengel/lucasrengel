@@ -23,7 +23,6 @@ Graduated in Systems Analysis and Development (Unisul), now finishing Software E
 
 - CardioView — [ECG monitor and viewer](https://github.com/LucasInstra/CardioView) built with WPF (.NET 10); reads MIT-BIH records, detects QRS complexes and generates PDF reports.
 - Inventory Management (A3) — full-stack academic project: [React/TypeScript front-end](https://github.com/lucasrengel/A3Front) + [Spring Boot REST API](https://github.com/lucasrengel/A3Back).
-- Kafka Producer & Consumer — [Spring Boot microservices](https://github.com/lucasrengel/SP_SpringBoot_AWS_kafka_producer) exchanging messages through Kafka, running with Docker Compose.
 
 ### Contact
 
